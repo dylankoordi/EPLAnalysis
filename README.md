@@ -12,7 +12,6 @@ Data source: https://footballbenchmark.com/home
 Main skills exhibited: 
 
 - R for the analysis and illustrations. 
-
 - Excel to process large chunks of data into smaller and easily assesible data for analysis
 
 Additional information:
